@@ -1,0 +1,5 @@
+#load "Syntax.cmo"
+#load "Tokenize.cmo"
+#load "Parse.cmo"
+#load "Interp.cmo"
+#use "REPL.ml"
